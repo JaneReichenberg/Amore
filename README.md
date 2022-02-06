@@ -15,6 +15,6 @@ This project was made on a computer running Windows 10.
 
 ## Demo:
 
-![amore1 png](https://user-images.githubusercontent.com/89151511/152702987-bebccee6-d517-4491-8994-d976a29639ba.png | 250x250)
-![amore2 png](https://user-images.githubusercontent.com/89151511/152703008-719b800e-84a2-4aba-a9ca-a65306e1ae61.png | 250x250)
-![amore3 png](https://user-images.githubusercontent.com/89151511/152703042-6ee66533-278b-4803-9c16-712432eb756d.png | 250x250)
+![amore1 png](https://user-images.githubusercontent.com/89151511/152702987-bebccee6-d517-4491-8994-d976a29639ba.png)
+![amore2 png](https://user-images.githubusercontent.com/89151511/152703008-719b800e-84a2-4aba-a9ca-a65306e1ae61.png)
+![amore3 png](https://user-images.githubusercontent.com/89151511/152703042-6ee66533-278b-4803-9c16-712432eb756d.png)
