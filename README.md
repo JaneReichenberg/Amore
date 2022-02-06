@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Amore, the fake Italian Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Amore is a fake website for an Italian restaurant created with React. It features a home page with navbar, a menu, and a contact/reservation page. It also manages state with Redux, shows animations with react-animations, and styles with reactstrap. On the reservation page, you can submit your information and the page will show a pop-up window with what you typed and then clear the page. If you type in some information, navigate away from that page, and come back, the information you typed will still be there.  
 
-## Available Scripts
+## Practice, practice
 
-In the project directory, you can run:
+I created Amore as practice, as I aim to be a front-end engineer. I wanted to work on a multi-page application, state management, and overall design.
 
-### `yarn start`
+#Installing and Executing
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project was made on a computer running Windows 10. 
+-Add the files to your preferred code editor.
+-Check the package-json for dependencies as this project uses many such as ```react-redux```, ```font-awesome```, and more. 
+-Download npm modules with ```npm install``` and run the project with ```yarn start```. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Demo:
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Amore homepage](![amore1 png](https://user-images.githubusercontent.com/89151511/152702987-bebccee6-d517-4491-8994-d976a29639ba.png)
+![Amore menu](![amore2 png](https://user-images.githubusercontent.com/89151511/152703008-719b800e-84a2-4aba-a9ca-a65306e1ae61.png)
+![Amore contact page](![amore3 png](https://user-images.githubusercontent.com/89151511/152703042-6ee66533-278b-4803-9c16-712432eb756d.png)
