@@ -18,7 +18,7 @@ This project was made on a computer running Windows 10.
 ![amore1 png](https://user-images.githubusercontent.com/89151511/152702987-bebccee6-d517-4491-8994-d976a29639ba.png)
 
 
-![amore2 png](![amore22 png](https://user-images.githubusercontent.com/89151511/152704701-d74ad006-12ed-4eee-9231-cbbab3a97e66.png)
+![amore2 png](https://user-images.githubusercontent.com/89151511/152704701-d74ad006-12ed-4eee-9231-cbbab3a97e66.png)
 
 
 ![amore3 png](https://user-images.githubusercontent.com/89151511/152703042-6ee66533-278b-4803-9c16-712432eb756d.png)
